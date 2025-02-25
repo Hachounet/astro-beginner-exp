@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Californien",
+    "description": "Description WIP",
+    "image": "https://as1.ftcdn.net/v2/jpg/07/09/24/30/1000_F_709243020_qLsqkZU3e72KXXdiYKWiqbLKyvIM4guT.jpg",
+    "icon": "src/assets/images/icons/massage-svgrepo-com(1).svg",
+    "text": "Un massage Californien"
+  },
+  {
+    "name": "Suédois",
+    "description": "Description WIP",
+    "image": "https://img.freepik.com/photos-gratuite/homme-angle-eleve-se-fait-masser_23-2150649759.jpg?t=st=1732179807~exp=1732183407~hmac=b297beec0a6e93d3e6e3f6e6052a75bd8ddeb33595ca3baf09151f3a9e95ce1c&w=1060",
+    "icon": "src/assets/images/icons/massage-svgrepo-com.svg",
+    "text": "Un massage Californien"
+  },
+  {
+    "name": "Amma",
+    "description": "Description WIP",
+    "image": "https://img.freepik.com/photos-gratuite/masseuse-moyenne-client_23-2148531217.jpg?t=st=1732179980~exp=1732183580~hmac=2d69782234b04eb15017ca9fe1e1db559b2e6c92dae93f26df307185915be592&w=740",
+    "icon": "src/assets/images/icons/lotus-svgrepo-com.svg",
+    "text": "Un massage Californien"
+  },
+  {
+    "name": "Personnalisé",
+    "description": "Description WIP",
+    "image": "https://img.freepik.com/photos-gratuite/therapie-gros-plan-pierres-chaudes_23-2148531222.jpg?t=st=1732180030~exp=1732183630~hmac=a985537fb720300d3d40d39ac36c84ae282de6b9146047b2442299a8ef972dc4&w=740",
+    "icon": "src/assets/images/icons/stones-svgrepo-com(1).svg",
+    "text": "Un massage Californien"
+  }
+]
